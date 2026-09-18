@@ -1,3 +1,24 @@
+# Embabel Agent Framework (embabel/embabel-agent)
+
+## 프로젝트 개요
+금융 및 엔터프라이즈 환경에서 검증된 엔터프라이즈 자바 가상머신(JVM) 생태계에서 자율 AI 에이전트를 안정적으로 구축하는 "엔터프라이즈 에이전트 프레임워크"
+기업의 기존 거대한 백엔드 인프라와 즉각 융합되어 기업 데이터를 안전하게 다루는 신뢰도 100%의 엔터프라이즈 에이전트 구현
+보수적인 대기업이나 금융권 시스템에서도 안심하고 최첨단 인공지능 에이전트를 도입할 수 있도록 돕는 탄탄한 뼈대
+
+## 핵심 특징 & 추천 분야
+- 엔터프라이즈에이전트
+- 대기업금융권표준인프라
+- 기존시스템완벽융합
+- 신뢰도100안전엔진
+- 자율비즈니스에이전트
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
